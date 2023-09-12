@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Marylka an aspiring software engineer!
--I'm an alumni of The Jump Digital School, where I've begun my coding journey learning fullstack web development. 
--I've been learning HTML5, CSS, SASS, Javascript, React and MySQL.
+### Hi there 👋  I'm Marylka, an aspiring software engineer!
+I'm an alumni of The Jump Digital School, where I've begun my coding journey learning fullstack web development. 
+-'ve been learning HTML5, CSS, SASS, Javascript, React and MySQL.
 
 <!--
 **Marylkax/Marylkax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
